@@ -1,2 +1,2 @@
 # wireguard-docker
-WireGuard Docker container image
+WireGuard Docker container image [EXPERIMENTAL]
